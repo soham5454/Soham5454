@@ -29,7 +29,7 @@ class SohamDey:
     def __init__(self):
         self.name         = "Soham Dey"
         self.username     = "Soham5454"
-        self.location     = "Siliguri, West Bengal, India 🇮🇳"
+        self.location     = "Bankura, West Bengal, India 🇮🇳"
         self.languages    = ["C", "C++", "Python"]
         self.exploring    = ["AI / ML", "Unreal Engine 5", "Game Development"]
         self.os           = "Windows 11 💻"
