@@ -126,7 +126,7 @@ OUTPUT ► Thanks for visiting my profile! Let's build something awesome.
 ---
 
 <!-- GOALS -->
-## 🎯 2025 Mission Board
+## 🎯 2026 Mission Board
 
 ```
  ┌─────────────────────────────────────────────────────┐
