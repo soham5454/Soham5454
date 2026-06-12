@@ -131,10 +131,10 @@ OUTPUT ► Thanks for visiting my profile! Let's build something awesome.
 
 ```
  ┌─────────────────────────────────────────────────────┐
- │  [ ] 🤖  Ship my first AI/ML project                │
+ │  [ ] 🤖  Ship my first AI/ML project                 │
  │  [ ] 🎮  Build a playable game in Unreal Engine 5   │
  │  [ ] 📦  Push 10+ repos to GitHub                   │
- │  [ ] 🌐  Launch personal portfolio website          │
+ │  [ ] 🌐  Launch personal portfolio website           │
  │  [ ] ⭐  Earn first GitHub star from a stranger     │
  │  [ ] 📚  Complete an AI/ML course end-to-end        │
  └─────────────────────────────────────────────────────┘
