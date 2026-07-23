@@ -13,9 +13,9 @@
 <!-- BADGES ROW -->
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=soham5454&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)
-![GitHub followers](https://img.shields.io/github/followers/soham5454?style=for-the-badge&color=orange&label=FOLLOWERS)
-![GitHub stars](https://img.shields.io/github/stars/soham5454?style=for-the-badge&color=yellow&label=STARS)
+![Profile Views](https://komarev.com/ghpvc/?username=Soham5454&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)
+![GitHub followers](https://img.shields.io/github/followers/Soham5454?style=for-the-badge&color=orange&label=FOLLOWERS)
+![GitHub stars](https://img.shields.io/github/stars/Soham5454?style=for-the-badge&color=yellow&label=STARS)
 
 </div>
 
@@ -31,7 +31,7 @@ class SohamDey:
         self.username     = "soham5454"
         self.location     = "Bankura, West Bengal, India 🇮🇳"
         self.languages    = ["C", "C++", "Python"]
-        self.exploring    = ["AI / ML", "Unreal Engine 5", "Game Development"]
+        self.exploring    = ["AI / ML"]
         self.os           = "Windows 11 💻"
         self.status       = "Student → Developer → Creator"
         self.goal         = "Build things that matter 🚀"
@@ -66,9 +66,6 @@ OUTPUT ► Thanks for visiting my profile! Let's build something awesome.
 ![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
-### 🎮 Game Dev
-![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-313131?style=for-the-badge&logo=unreal-engine&logoColor=white)
-![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
 
 ### 🛠️ Tools & Environment
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -85,16 +82,16 @@ OUTPUT ► Thanks for visiting my profile! Let's build something awesome.
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=soham5454&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=soham5454&layout=compact&theme=radical&hide_border=true&bg_color=0D1117"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Soham5454&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Soham5454&layout=compact&theme=radical&hide_border=true&bg_color=0D1117"/>
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=soham5454&theme=radical&hide_border=true&background=0D1117&ring=FF6E96&fire=FF6E96&currStreakLabel=FF6E96" />
+  <img src="https://streak-stats.demolab.com?user=Soham5454&theme=radical&hide_border=true&background=0D1117&ring=FF6E96&fire=FF6E96&currStreakLabel=FF6E96" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=soham5454&theme=react-dark&hide_border=true&bg_color=0D1117&color=FF6E96&line=FF6E96&point=FFFFFF" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Soham5454&theme=react-dark&hide_border=true&bg_color=0D1117&color=FF6E96&line=FF6E96&point=FFFFFF" />
 </div>
 
 ---
@@ -116,11 +113,11 @@ OUTPUT ► Thanks for visiting my profile! Let's build something awesome.
 | Phase | Status | Skills |
 |:---:|:---:|:---:|
 | 🐍 Python Fundamentals | ✅ Done | Variables, Loops, Functions, OOP |
-| ⚙️ C Programming | ✅ Done | Pointers, Memory, Data Structures |
-| 🔷 C++ & OOP | 🔄 Ongoing | Classes, STL, Game Logic |
-| 🤖 AI / ML | 🔄 Exploring | Neural Nets, Computer Vision |
-| 🎮 Unreal Engine 5 | 🔄 Learning | Blueprints, C++ Integration |
-| 🌐 Full Stack | 📅 Planned | Web Dev, APIs, Deployment |
+| ⚙️ C Programming | ✅ Done | Pointers, Memory, Data Structures      |
+| 🔷 C++ & OOP | 🔄 Ongoing | Classes, STL, Game Logic                |
+| 🤖 AI / ML | 🔄 Exploring | Neural Nets, Computer Vision            |
+| 🔄 Learning | Blueprints, C++ Integration                            |
+| 🌐 Full Stack | 📅 Planned | Web Dev, APIs, Deployment              |
 
 </div>
 
@@ -154,9 +151,4 @@ OUTPUT ► Thanks for visiting my profile! Let's build something awesome.
 
 *"The best time to start was yesterday. The second best time is now."*
 
-</div>
-
-<!-- FOOTER -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
 </div>
