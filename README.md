@@ -141,7 +141,7 @@ OUTPUT ► Thanks for visiting my profile! Let's build something awesome.
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-soham5454-181717?style=for-the-badge&logo=github&logoColor=white)]
+[![GitHub](https://img.shields.io/badge/GitHub-soham5454-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/soham5454)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Soham_Dey-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/soham-dey-422a32325)
 [![LeetCode](https://img.shields.io/badge/LeetCode-soham5454-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/soham5454/)
 [![Instagram](https://img.shields.io/badge/Instagram-soham____5454-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/soham____5454)
