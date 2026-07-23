@@ -145,6 +145,7 @@ OUTPUT ► Thanks for visiting my profile! Let's build something awesome.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Soham_Dey-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/soham-dey-422a32325)
 [![LeetCode](https://img.shields.io/badge/LeetCode-soham5454-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/soham5454/)
 [![Instagram](https://img.shields.io/badge/Instagram-soham____5454-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/soham____5454)
+[![X](https://img.shields.io/badge/X-soham__5454-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/soham_5454)
 
 *"The best time to start was yesterday. The second best time is now."*
 
