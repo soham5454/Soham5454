@@ -1,11 +1,11 @@
 <!-- HEADER BANNER -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Soham%20Dey&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Developer%20%7C%20AI%2FML%20Explorer%20%7C%20Game%20Dev%20Enthusiast&descAlignY=55&descSize=16"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Soham%20Dey&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Developer%20%7C%20AI%2FML%20Explorer&descAlignY=55&descSize=16"/>
 </div>
 
 <!-- TYPING ANIMATION -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=600&lines=%3E+Initializing+Soham.exe...;%3E+Loading+C%2C+C%2B%2B%2C+Python+modules...;%3E+Booting+AI%2FML+algorithms...;%3E+Launching+Unreal+Engine...;%3E+System+Ready+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=600&lines=%3E+Initializing+Soham.exe...;%3E+Loading+C%2C+C%2B%2B%2C+Python+modules...;%3E+Booting+AI%2FML+algorithms...;%3E+System+Ready+%F0%9F%9A%80" alt="Typing SVG" />
 </div>
 
 <br/>
@@ -13,9 +13,9 @@
 <!-- BADGES ROW -->
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=Soham5454&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)
-![GitHub followers](https://img.shields.io/github/followers/Soham5454?style=for-the-badge&color=orange&label=FOLLOWERS)
-![GitHub stars](https://img.shields.io/github/stars/Soham5454?style=for-the-badge&color=yellow&label=STARS)
+![Profile Views](https://komarev.com/ghpvc/?username=soham5454&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)
+![GitHub followers](https://img.shields.io/github/followers/soham5454?style=for-the-badge&color=orange&label=FOLLOWERS)
+![GitHub stars](https://img.shields.io/github/stars/soham5454?style=for-the-badge&color=yellow&label=STARS)
 
 </div>
 
@@ -66,7 +66,6 @@ OUTPUT ► Thanks for visiting my profile! Let's build something awesome.
 ![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
-
 ### 🛠️ Tools & Environment
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
@@ -82,16 +81,16 @@ OUTPUT ► Thanks for visiting my profile! Let's build something awesome.
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Soham5454&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Soham5454&layout=compact&theme=radical&hide_border=true&bg_color=0D1117"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=soham5454&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=soham5454&layout=compact&theme=radical&hide_border=true&bg_color=0D1117"/>
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Soham5454&theme=radical&hide_border=true&background=0D1117&ring=FF6E96&fire=FF6E96&currStreakLabel=FF6E96" />
+  <img src="https://streak-stats.demolab.com?user=soham5454&theme=radical&hide_border=true&background=0D1117&ring=FF6E96&fire=FF6E96&currStreakLabel=FF6E96" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Soham5454&theme=react-dark&hide_border=true&bg_color=0D1117&color=FF6E96&line=FF6E96&point=FFFFFF" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=soham5454&theme=react-dark&hide_border=true&bg_color=0D1117&color=FF6E96&line=FF6E96&point=FFFFFF" />
 </div>
 
 ---
@@ -113,11 +112,10 @@ OUTPUT ► Thanks for visiting my profile! Let's build something awesome.
 | Phase | Status | Skills |
 |:---:|:---:|:---:|
 | 🐍 Python Fundamentals | ✅ Done | Variables, Loops, Functions, OOP |
-| ⚙️ C Programming | ✅ Done | Pointers, Memory, Data Structures      |
-| 🔷 C++ & OOP | 🔄 Ongoing | Classes, STL, Game Logic                |
-| 🤖 AI / ML | 🔄 Exploring | Neural Nets, Computer Vision            |
-| 🔄 Learning | Blueprints, C++ Integration                            |
-| 🌐 Full Stack | 📅 Planned | Web Dev, APIs, Deployment              |
+| ⚙️ C Programming | ✅ Done | Pointers, Memory, Data Structures |
+| 🔷 C++ & OOP | 🔄 Ongoing | Classes, STL, Problem Solving |
+| 🤖 AI / ML | 🔄 Exploring | Neural Nets, Computer Vision |
+| 🌐 Full Stack | 📅 Planned | Web Dev, APIs, Deployment |
 
 </div>
 
@@ -129,7 +127,6 @@ OUTPUT ► Thanks for visiting my profile! Let's build something awesome.
 ```
  ┌─────────────────────────────────────────────────────┐
  │  [ ] 🤖  Ship my first AI/ML project                │
- │  [ ] 🎮  Build a playable game in Unreal Engine 5   │
  │  [ ] 📦  Push 10+ repos to GitHub                   │
  │  [ ] 🌐  Launch personal portfolio website          │
  │  [ ] ⭐  Earn first GitHub star from a stranger     │
@@ -151,4 +148,9 @@ OUTPUT ► Thanks for visiting my profile! Let's build something awesome.
 
 *"The best time to start was yesterday. The second best time is now."*
 
+</div>
+
+<!-- FOOTER -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
 </div>
